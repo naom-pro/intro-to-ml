@@ -1,0 +1,2 @@
+# intro-to-ml
+Chap1 machine learning: is all about studying of algorithms to help computers solve problems   via patterns but neccerary instuctions.its also involves exploring of  the data analysis its involves data training and testing of data. the language used mostly is python because it has lots of libraries, it’s simple to learn and use its good in data handling and it has gain popularity in open source.
